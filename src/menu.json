@@ -1,22 +1,130 @@
 {
-    "todos": [
+    "menu": [
         {
-            "title": "task 1",
-            "responsible": "Mark",
-            "descripcion": "lorem impsun",
-            "priority": "low"
+            "title": "Café americano",
+            "precio": 5,
+            "categoria": "desayuno",
+            "subcategoria": "producto",
+            "producto": true
         },
         {
-            "title": "task 2",
-            "responsible": "Jose",
-            "descripcion": "lorem impsun",
-            "priority": "medium"
+            "title": "Café con leche",
+            "precio": 7,
+            "categoria": "desayuno",
+            "subcategoria": "producto",
+            "producto": true
         },
         {
-            "title": "task 3",
-            "responsible": "Sandra",
-            "descripcion": "lorem impsun",
-            "priority": "high"
+            "title": "Sandwich de jamón y queso",
+            "precio": 10,
+            "categoria": "desayuno",
+            "subcategoria": "producto",
+            "producto": true
+        },
+        {
+            "title": "Jugo de frutas natural",
+            "precio": 7,
+            "categoria": "desayuno",
+            "subcategoria": "producto",
+            "producto": true
+        },
+        {
+            "title": "Hamburguesa simple",
+            "precio": 10,
+            "categoria": "tarde",
+            "subcategoria": "hamburguesa",
+            "producto": true
+        },
+        {
+            "title": "Hamburguesa doble",
+            "precio": 15,
+            "categoria": "tarde",
+            "subcategoria": "hamburguesa",
+            "producto": true
+        },
+        {
+            "title": "res",
+            "precio": 0,
+            "categoria": "tarde",
+            "subcategoria": "hamburguesa",
+            "producto": true
+        },
+        {
+            "title": "pollo",
+            "precio": 0,
+            "categoria": "tarde",
+            "subcategoria": "hamburguesa",
+            "producto": true
+        },
+        {
+            "title": "vegetariana",
+            "precio": 0,
+            "categoria": "tarde",
+            "subcategoria": "hamburguesa",
+            "producto": true
+        },
+        {
+            "title": "huevo",
+            "precio": 1,
+            "categoria": "tarde",
+            "subcategoria": "hamburguesa",
+            "producto": true
+        },
+        {
+            "title": "queso",
+            "precio": 1,
+            "categoria": "tarde",
+            "subcategoria": "hamburguesa",
+            "producto": true
+        },
+        {
+            "title": "Papas frita",
+            "precio": 5,
+            "categoria": "tarde",
+            "subcategoria": "acompañamiento",
+            "producto": true
+        },
+        {
+            "title": " Aros de cebolla",
+            "precio": 5,
+            "categoria": "tarde",
+            "subcategoria": "acompañamiento",
+            "producto": true
+        },
+        {
+            "title": "Agua 500ml",
+            "precio": 5,
+            "categoria": "tarde",
+            "subcategoria": "bebida",
+            "producto": true
+        },
+        {
+            "title": "Agua 500ml",
+            "precio": 5,
+            "categoria": "tarde",
+            "subcategoria": "bebida",
+            "producto": true
+        },
+        {
+            "title": "Agua 750ml ",
+            "precio": 7,
+            "categoria": "tarde",
+            "subcategoria": "bebida",
+            "producto": true
+        },
+        {
+            "title": "Bebida/gaseosa 500ml",
+            "precio": 7,
+            "categoria": "tarde",
+            "subcategoria": "bebida",
+            "producto": true
+        },
+        {
+            "title": "Bebida/gaseosa 750ml",
+            "precio": 10,
+            "categoria": "tarde",
+            "subcategoria": "bebida",
+            "producto": true
         }
     ]
 }
