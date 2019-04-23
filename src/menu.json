@@ -2,6 +2,7 @@
     "menu": [
         {
             "title": "Café americano",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG",
             "precio": 5,
             "categoria": "desayuno",
             "subcategoria": "producto",
@@ -9,6 +10,7 @@
         },
         {
             "title": "Café con leche",
+            "img": "https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/55d31c013fafe8fa92bf40d6/cafe-colon_0.jpg",
             "precio": 7,
             "categoria": "desayuno",
             "subcategoria": "producto",
@@ -16,6 +18,7 @@
         },
         {
             "title": "Sandwich de jamón y queso",
+            "img": "https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/06/12/Recortada/img_ysaiz_20170410-171444_imagenes_lv_getty_istock-155388694-kH9D-U4564209929inG-992x558@LaVanguardia-Web.jpg",
             "precio": 10,
             "categoria": "desayuno",
             "subcategoria": "producto",
@@ -23,6 +26,7 @@
         },
         {
             "title": "Jugo de frutas natural",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG",
             "precio": 7,
             "categoria": "desayuno",
             "subcategoria": "producto",
@@ -30,6 +34,7 @@
         },
         {
             "title": "Hamburguesa simple",
+            "img": "https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/06/12/Recortada/img_ysaiz_20170410-171444_imagenes_lv_getty_istock-155388694-kH9D-U4564209929inG-992x558@LaVanguardia-Web.jpg",
             "precio": 10,
             "categoria": "tarde",
             "subcategoria": "hamburguesa",
@@ -37,6 +42,7 @@
         },
         {
             "title": "Hamburguesa doble",
+            "img": "https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/06/12/Recortada/img_ysaiz_20170410-171444_imagenes_lv_getty_istock-155388694-kH9D-U4564209929inG-992x558@LaVanguardia-Web.jpg",
             "precio": 15,
             "categoria": "tarde",
             "subcategoria": "hamburguesa",
@@ -44,6 +50,7 @@
         },
         {
             "title": "res",
+            "img": "https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/06/12/Recortada/img_ysaiz_20170410-171444_imagenes_lv_getty_istock-155388694-kH9D-U4564209929inG-992x558@LaVanguardia-Web.jpg",
             "precio": 0,
             "categoria": "tarde",
             "subcategoria": "hamburguesa",
@@ -51,6 +58,7 @@
         },
         {
             "title": "pollo",
+            "img": "https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/06/12/Recortada/img_ysaiz_20170410-171444_imagenes_lv_getty_istock-155388694-kH9D-U4564209929inG-992x558@LaVanguardia-Web.jpg",
             "precio": 0,
             "categoria": "tarde",
             "subcategoria": "hamburguesa",
@@ -58,6 +66,7 @@
         },
         {
             "title": "vegetariana",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG",
             "precio": 0,
             "categoria": "tarde",
             "subcategoria": "hamburguesa",
@@ -98,13 +107,7 @@
             "subcategoria": "bebida",
             "producto": true
         },
-        {
-            "title": "Agua 500ml",
-            "precio": 5,
-            "categoria": "tarde",
-            "subcategoria": "bebida",
-            "producto": true
-        },
+
         {
             "title": "Agua 750ml ",
             "precio": 7,
